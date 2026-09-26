@@ -1,0 +1,21 @@
+[
+  {
+    "url": "doc://site_a_123/doc_old_10pm"
+  },
+  {
+    "site_id": "spiceg49714b"
+  },
+  {
+    "url": {
+      "$regex": "^document://spiceg49714b"
+    }
+  },
+  {
+    "site_id": "testin2b2167"
+  },
+  {
+    "url": {
+      "$regex": "^document://testin2b2167"
+    }
+  }
+]
