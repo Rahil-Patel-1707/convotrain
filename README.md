@@ -247,6 +247,6 @@ Built with FastAPI, MongoDB, LangChain, and a little patience for good answers.
 </div>
 <div align="center">
 
-develope by Rahil PAtel, Shrey Vyas, Vrushabh Prajapati
+develope by Rahil Patel, Shrey Vyas, Vrushabh Prajapati
 
 </div>
